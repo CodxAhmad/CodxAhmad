@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CodxAhmad
+- 😍 I’m interested in Programming 
+- 💻 I’m currently learning Python
+- 🚨 I'm doing CS in COMSATS Islamabad 
+- 😎 Passionate towards my work.
