@@ -1,0 +1,28 @@
+.div{
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+}
+li {
+    list-style-type: none;
+    display: inline-block;
+}
+.outer{
+    background-color: red;
+    height: 120px;
+    width: 120px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    
+}
+.inner{
+    background-color: green;
+    height: 80px;
+    width: 80px;
+}
